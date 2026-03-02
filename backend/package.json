@@ -7,9 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+<<<<<<< HEAD
   "engines": {
     "node": "18.X"
   },
+=======
+   "engines": {
+    "node": "18.X"
+  },
+
+>>>>>>> 8498a0b (Fix railway buider)
   "keywords": [],
   "author": "",
   "license": "ISC",
